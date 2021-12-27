@@ -56,6 +56,8 @@ function ContactForm() {
             )}
             <button data-testid="button" type="submit">Submit</button>
           </form>
+          <h1>Email: robert.vanooyen@gmail.com</h1>
+          <h1>Phone: 719-287-2664</h1>
         </section>
         );
 }
